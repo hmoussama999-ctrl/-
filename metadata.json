@@ -1,0 +1,8 @@
+{
+  "name": "تسيير المحل",
+  "description": "تطبيق متكامل لمساعدتك في إدارة ومتابعة المحلات والمتاجر التجارية، تنظيم المخزون، تسجيل المبيعات، ومعرفة الأرباح بكل سهولة ويسر وبشكل مباشر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
